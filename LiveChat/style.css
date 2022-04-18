@@ -1,0 +1,23 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.titleLogo{
+    color: white;
+    font-family: "Montserrat";
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.image{
+    position: absolute;
+    top: 70px;
+    left: 380px;
+}
+#joinRoom{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    width: 350px;
+    height: 75px;
+}
